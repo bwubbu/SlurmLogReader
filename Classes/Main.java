@@ -1,6 +1,6 @@
 package Assignment;
 
-import java.text.ParseException;
+import java.text.ParseException; //Only use main.java if ur using the methods.
 
 public class Main{
 
