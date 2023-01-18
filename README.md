@@ -10,7 +10,7 @@ I'll put the whole code after I submit my assignment :3
 | DATE     	      |    UPDATES/CHANGES   |
 | :-------------: |    :-------------:   |
 | 18-01-2023 	    | Changed the code to be separate Main Classes instead of Methods|
-|       |     |
+| 18-01-2023      |added the classes divideJobsByPartitions, UserAssErrorDetect, DateByMonth.|
 |       |               | 
 |       |                |
 | 	    |       |
