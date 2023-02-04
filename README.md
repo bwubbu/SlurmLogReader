@@ -1,20 +1,14 @@
 # SlurmLogReader
-An Assignment I'm working on.
+An Assignment I worked on. Codes that can extract data from a SLURM log file.
 
-I'll put the whole code after I submit my assignment :3
-
-## PROJECT LOG
-
-<div align="center">
-
-| DATE     	      |    UPDATES/CHANGES   |
-| :-------------: |    :-------------:   |
-| 18-01-2023 	    | Changed the code to be separate Main Classes instead of Methods|
-| 18-01-2023      |added the classes divideJobsByPartitions, UserAssErrorDetect, DateByMonth.|
-|       |               | 
-|       |                |
-| 	    |       |
-
-</div>
+## METRICS  
+- Number of jobs created/ended within a given time range.
+- Number of jobs by partitions, i.e. EPYC, Opteron and GPU.
+- Number of jobs causing error and the corresponding user.
+- Error types and occurences.
+- Extract data from the log by month given.
+- Total Average execution time of the jobs submitted to UMHPC (for all months).
+- Number of errors by month.
+- Number of Jobs Cancelled By User by month.
 
 -ぶるぶ
