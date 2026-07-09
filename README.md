@@ -141,6 +141,3 @@ This is an assignment-based project. Feel free to fork and experiment with enhan
 For questions or suggestions, feel free to open an issue in the repository.
 
 ---
-
-**Status**: Academic Assignment  
-**Language**: Java (100%)
